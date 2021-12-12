@@ -1,4 +1,4 @@
-## Welcome to Fourai Pages
+## Welcome to Ligang's Pages
 
 You can use the [editor on GitHub](https://github.com/ligang1841/ligang1841.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
